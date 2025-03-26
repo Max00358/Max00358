@@ -10,8 +10,6 @@ During my days, I am either studying Computer Engineering at the University of W
 ![Tool](https://img.shields.io/badge/Tool-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)
 ![Tool](https://img.shields.io/badge/Tool-QtCreator-41CD52?style=flat&logo=qt&logoColor=white)
 ![Tool](https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white)
-![Tool](https://img.shields.io/badge/Tool-MSOffice-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
-![Tool](https://img.shields.io/badge/Tool-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Tool](https://img.shields.io/badge/Tool-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ### Programming Language
